@@ -1,9 +1,9 @@
-// variables declaradas según el tipo de auto.
+// variables declaradas según el tipo de la ropa.
 let vPe = 0;
 let vMed = 0;
 let vGrand = 0;
 let vTotal = 0;
-// variables declaradas según el precio del auto.
+// variables declaradas según el precio de la ropa.
 let vPe1 = 1500;
 let vMed2 = 2000;
 let vGrand3 = 2500;
@@ -13,7 +13,7 @@ let vMeDAcu = 0;
 let vGrandAcu = 0;
 let vTotalAcu = 0;
 let promedio = 0;
-// variable para el promt donde el usuario ingresara el tipo del auto
+// variable para el promt donde el usuario ingresara el tipo de prenda
 let au;
 //
 let cant = 1;
